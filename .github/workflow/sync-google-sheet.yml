@@ -25,7 +25,7 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
         GOOGLE_SERVICE_ACCOUNT: ${{ secrets.GOOGLE_SERVICE_ACCOUNT }}
-        GOOGLE_SHEET_ID: '<YOUR_GOOGLE_SHEET_ID_HERE>'
+        GOOGLE_SHEET_ID: '13aO2HPY8U8uaH0SJfcYztah-afjT9wsqY1rYLTUKqcA'
         GITHUB_REPO: '${{ github.repository }}'
         GITHUB_ACTOR: '${{ github.actor }}'
       run: node sync-sheet.js
