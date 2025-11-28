@@ -1,0 +1,14 @@
+[
+  {
+    "id": "q1",
+    "question": "What is required to open an account?",
+    "options": [
+      "Only passbook",
+      "Form A and KYC documents",
+      "Only Aadhaar card",
+      "Only mobile number"
+    ],
+    "correctIndex": 1,
+    "contentKey": "open account"
+  }
+]
