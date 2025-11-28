@@ -11,4 +11,16 @@
     "correctIndex": 1,
     "contentKey": "open account"
   }
+  {
+  "id": "q2",
+  "question": "Which form is used for address change?",
+  "options": [
+    "Form A",
+    "Form B",
+    "Address Change Request",
+    "KYC Update"
+  ],
+  "correctIndex": 2,
+  "contentKey": "change address"
+}
 ]
